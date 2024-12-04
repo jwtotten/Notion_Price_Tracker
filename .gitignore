@@ -1,3 +1,4 @@
 integration.txt
 .venv
 .env
+.DS_Store
